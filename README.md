@@ -2,6 +2,12 @@
 
 ## Undergrad Thesis I supervised on topic Artificial Intelligence
 
+Title: Call service to automate reservations  
+Student: Guillem Rodríguez Mitjana      
+Study: Degree in Computer Engineering  
+University: Universitat Rovira i Virgili  
+Year: 2025    
+
 Title: Automation of deployment of Artificial Intelligence Models made with MONAI on Amazon Web Services (AWS)  
 Student: Tarek Ben Hamdouch  
 Study: Double Bachelor's Degree in Computer Engineering and Biotechnology  
@@ -22,11 +28,6 @@ Year: 2024
 
 ## Undergrad Thesis I am currently supervising on topic Artificial Intelligence
 
-Title: Call service to automate reservations  
-Student: GRM  
-Study: Degree in Computer Engineering  
-University: Universitat Rovira i Virgili  
-Year: 2025   
 
 Title: Federated Learning in ML in Medical Imaging (with MONAI)  
 Student: GPG  
@@ -46,7 +47,7 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2025  
 
-Title: Agentic System for an online Customer Center 
+Title: Agentic System for an online Customer Center   
 Student: AEP  
 Study: Degree in Web and Mobile Application Development Techniques  
 University: Universitat Rovira i Virgili  
