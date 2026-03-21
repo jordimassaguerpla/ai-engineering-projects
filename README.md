@@ -9,7 +9,7 @@ Collection of undergraduate projects I supervise in **Artificial Intelligence an
 - Cloud & infrastructure (AWS, MCP, distributed systems)
 - Applied domains (healthcare, customer service, DevOps)
 
-The goal is to move beyond research prototypes and develop **evaluated, production-oriented AI systems**, incorporating metrics, experimentation and real-world constraints.
+The goal is to move beyond prototypes and develop **evaluated, production-oriented AI systems**, incorporating metrics, experimentation and real-world constraints, including the development of infrastructure components (MCP servers) and GenUI-based interfaces for AI-driven system interaction.
 
 ---
 
@@ -86,6 +86,22 @@ Study: Degree in Computer Engineering
 Year: 2024  
 
 AI-based recommendation system.
+
+---
+
+## ⚙️ Infrastructure & AI Systems
+
+### MCP Server for Infrastructure Management (Uyuni)
+https://github.com/mcp-server-uyuni
+
+Development of an MCP server enabling integration between infrastructure management systems (Uyuni/SUSE Manager) and AI-driven interfaces.
+
+Focus on:
+- exposing infrastructure operations as tools for LLMs and agents  
+- enabling natural language interaction with system administration tasks  
+- supporting multi-agent architectures and GenUI interfaces  
+
+This work serves as a foundation for several AI Engineering projects (LLM, RAG, multi-agent systems).
 
 ---
 
