@@ -1,4 +1,6 @@
-# AI Engineering Projects (URV ETSE)
+# AI Engineering Projects 
+
+## Undergraduate projects (URV ETSE)
 
 Collection of undergraduate projects I supervise in **Artificial Intelligence and AI Engineering**, focused on building real-world systems combining:
 
@@ -11,9 +13,9 @@ The goal is to move beyond research prototypes and develop **evaluated, producti
 
 ---
 
-## 🚀 Current Projects
+### 🚀 Current Projects
 
-### Agentic System for an Online Customer Center  
+#### Agentic System for an Online Customer Center  
 Student: AEP  
 Study: Degree in Web and Mobile Application Development Techniques  
 Year: 2025  
@@ -22,7 +24,7 @@ Multi-agent system using LLMs and RAG for customer interaction and task executio
 
 ---
 
-### Artificial Intelligence for Document Management in the Insurance Sector  
+#### Artificial Intelligence for Document Management in the Insurance Sector  
 Student: NCR  
 Study: Degree in Computer Engineering  
 Year: 2025  
@@ -31,7 +33,7 @@ AI-based system for document classification and retrieval.
 
 ---
 
-### Federated Learning in Medical Imaging (MONAI)  
+#### Federated Learning in Medical Imaging (MONAI)  
 Student: GPG  
 Study: Degree in Computer Engineering  
 Year: 2025  
@@ -40,7 +42,7 @@ Distributed machine learning applied to healthcare data.
 
 ---
 
-### Football Score and Match Statistics Predictor  
+#### Football Score and Match Statistics Predictor  
 Student: JGB  
 Study: Degree in Computer Engineering  
 Year: 2025  
@@ -49,9 +51,9 @@ Machine learning system for prediction using statistical features.
 
 ---
 
-## 📦 Past Projects
+### 📦 Past Projects
 
-### Creating a Chatbot using a Retrieval Augmented Generation Architecture  
+#### Creating a Chatbot using a Retrieval Augmented Generation Architecture  
 Student: Albert Garcia Bernat  
 Study: Degree in Computer Engineering  
 Year: 2024  
@@ -60,7 +62,7 @@ RAG-based conversational system.
 
 ---
 
-### Automation of Deployment of AI Models with MONAI on AWS  
+#### Automation of Deployment of AI Models with MONAI on AWS  
 Student: Tarek Ben Hamdouch  
 Study: Double Degree in Computer Engineering and Biotechnology  
 Year: 2024  
@@ -69,7 +71,7 @@ End-to-end ML deployment in cloud infrastructure.
 
 ---
 
-### Call Service to Automate Reservations  
+#### Call Service to Automate Reservations  
 Student: Guillem Rodríguez Mitjana  
 Study: Degree in Computer Engineering  
 Year: 2025  
@@ -78,7 +80,7 @@ Conversational AI system for automating booking processes.
 
 ---
 
-### Design and Development of a Fitness Application with AI  
+#### Design and Development of a Fitness Application with AI  
 Student: Alejandro Trujillo Ortiz  
 Study: Degree in Computer Engineering  
 Year: 2024  
@@ -113,18 +115,3 @@ Applied experimentation with medical AI, deployment and integration.
 
 ---
 
-## 🏗️ Focus Areas
-
-- AI Engineering  
-- LLM Systems & RAG  
-- Multi-agent systems  
-- Applied Machine Learning  
-- Cloud-based AI systems  
-- AI for infrastructure and DevOps  
-
----
-
-## 🎓 Context
-
-- Degree in Computer Engineering  
-- Universitat Rovira i Virgili (ETSE)
