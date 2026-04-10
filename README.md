@@ -16,14 +16,37 @@ The goal is to move beyond prototypes and develop **evaluated, production-orient
 ### 🚀 Current Projects
 
 #### Implementing Decentralized Agentic Swarms and Generative UI for Autonomous Linux Infrastructure Management via OpenClaw
+Student: JGV
+Study: Degree in Computer Engineering
+Year: 2026
+
+---
 
 #### AI, Linux and Frontend: Operations Control Panel
+Student: ACS
+Study: Degree in Computer Engineering
+Year: 2026
+
+---
 
 #### Authorize context with different levels of confidentiality
+Student: AFC
+Study: Degree in Computer Engineering
+Year: 2026
+
+---
 
 #### AI-powered Fitness Web Application
+Student: VHJ
+Study: Degree in Computer Engineering
+Year: 2026
+
+---
 
 #### Medical assistant in medical imaging
+Student: ARF
+Study: Degree in Computer Engineering
+Year: 2026
 
 ### 📦 Past Projects
 #### Agentic System for an Online Customer Center  
