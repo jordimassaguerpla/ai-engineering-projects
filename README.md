@@ -15,6 +15,17 @@ The goal is to move beyond prototypes and develop **evaluated, production-orient
 
 ### 🚀 Current Projects
 
+#### Implementing Decentralized Agentic Swarms and Generative UI for Autonomous Linux Infrastructure Management via OpenClaw
+
+#### AI, Linux and Frontend: Operations Control Panel
+
+#### Authorize context with different levels of confidentiality
+
+#### AI-powered Fitness Web Application
+
+#### Medical assistant in medical imaging
+
+### 📦 Past Projects
 #### Agentic System for an Online Customer Center  
 Student: AEP  
 Study: Degree in Web and Mobile Application Development Techniques  
@@ -50,8 +61,6 @@ Year: 2025
 Machine learning system for prediction using statistical features.
 
 ---
-
-### 📦 Past Projects
 
 #### Creating a Chatbot using a Retrieval Augmented Generation Architecture  
 Student: Albert Garcia Bernat  
