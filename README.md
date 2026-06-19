@@ -137,9 +137,34 @@ This work serves as a foundation for several AI Engineering projects (LLM, RAG, 
 
 ---
 
-## 🧪 Research & Applied Projects
+## 📚 Publications & Research
+### Papers in conferences
+
+**Challenges in the AI-Driven Infrastructure Management Era**
+
+Authors: Antonio Gámez-Díaz, Jordi Massaguer Pla
+Conference: Jornadas de Ciencia e Ingeniería de Servicios (JCIS 2026)
+
+Industrial experience report based on the development and deployment of MCP servers for infrastructure management platforms such as Uyuni and Trento.
+
+The paper discusses key governance challenges that emerge when LLMs interact with operational systems through machine-facing APIs, including:
+
+API governance and rate limiting
+Reviewable execution plans for AI agents
+Scoped authorization and auditability
+
+Paper:
+https://hdl.handle.net/11705/JCIS/2026/43
+
+---
 
 ### Google Summer of Code
+**AI-Powered Intelligent Monitoring and Root Cause Analysis for Uyuni**
+https://summerofcode.withgoogle.com/programs/2026/projects/IkZoUdVT
+
+AI agent that correlates Prometheus metrics with live system diagnostics to detect anomalies, explain root causes, and provide actionable remediation recommendations for Linux infrastructure.
+
+---
 
 **AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests**  
 https://summerofcode.withgoogle.com/programs/2025/projects/2mlAbkgB  
