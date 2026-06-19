@@ -1,5 +1,7 @@
 # AI Engineering Projects 
 
+As a Software Engineer at SUSE and Associate Professor at Universitat Rovira i Virgili (URV), my work focuses on AI Engineering, Agentic Systems, Infrastructure Management, and the integration of LLMs into real-world operational environments.
+
 ## Undergraduate projects (URV ETSE)
 
 Collection of undergraduate projects I supervise in **Artificial Intelligence and AI Engineering**, focused on building real-world systems combining:
