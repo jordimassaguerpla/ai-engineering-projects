@@ -1,6 +1,9 @@
+[Linkedin](https://www.linkedin.com/in/jordimassaguerpla/)
 # AI Engineering Projects 
 
 As a Software Engineer at SUSE and Associate Professor at Universitat Rovira i Virgili (URV), my work focuses on AI Engineering, Agentic Systems, Infrastructure Management, and the integration of LLMs into real-world operational environments.
+
+Several projects are developed in collaboration with open-source communities such as Uyuni, Trento and MONAI.
 
 ## Undergraduate projects (URV ETSE)
 
@@ -140,7 +143,7 @@ This work serves as a foundation for several AI Engineering projects (LLM, RAG, 
 ---
 
 ## 📚 Publications & Research
-### Papers in conferences
+### Publications
 
 **Challenges in the AI-Driven Infrastructure Management Era**
 
@@ -151,9 +154,9 @@ Industrial experience report based on the development and deployment of MCP serv
 
 The paper discusses key governance challenges that emerge when LLMs interact with operational systems through machine-facing APIs, including:
 
-API governance and rate limiting
-Reviewable execution plans for AI agents
-Scoped authorization and auditability
+- API governance and rate limiting
+- Reviewable execution plans for AI agents
+- Scoped authorization and auditability
 
 Paper:
 https://hdl.handle.net/11705/JCIS/2026/43
@@ -190,3 +193,12 @@ Applied experimentation with medical AI, deployment and integration.
 
 ---
 
+## Research Interests
+
+- AI Engineering
+- Agentic Systems
+- Model Context Protocol (MCP)
+- Infrastructure Automation
+- Human-in-the-Loop AI
+- Medical AI
+- Explainable AI Operations
