@@ -193,6 +193,12 @@ Applied experimentation with medical AI, deployment and integration.
 
 ---
 
+## Academic Activities
+
+• Bachelor's Thesis Supervisor (AI Engineering)
+• Member of Bachelor's Thesis Evaluation Committees
+• Laboratory Instructor – Network and Systems Management
+
 ## Research Interests
 
 - AI Engineering
