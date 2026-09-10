@@ -1,126 +1,170 @@
-[Linkedin](https://www.linkedin.com/in/jordimassaguerpla/)
-# AI Engineering Projects 
+[LinkedIn](https://www.linkedin.com/in/jordimassaguerpla/)
 
-As a Software Engineer at SUSE and Associate Professor at Universitat Rovira i Virgili (URV), my work focuses on AI Engineering, Agentic Systems, Infrastructure Management, and the integration of LLMs into real-world operational environments.
+# AI Engineering Projects
 
-Several projects are developed in collaboration with open-source communities such as Uyuni, Trento and MONAI.
+As a Software Engineer at SUSE and Associate Professor at Universitat Rovira i Virgili (URV), my work focuses on **AI Engineering, Agentic Systems, Generative UI, Infrastructure Management, and the integration of LLMs into real-world software systems**.
 
-## Undergraduate projects (URV ETSE)
+Several projects are developed in collaboration with or inspired by real-world open-source ecosystems such as Uyuni, Trento and MONAI.
 
-Collection of undergraduate projects I supervise in **Artificial Intelligence and AI Engineering**, focused on building real-world systems combining:
+## Undergraduate Projects (URV ETSE)
 
-- LLMs (GenAI, RAG, multi-agent systems)
-- Machine Learning (XGBoost, Federated Learning)
-- Cloud & infrastructure (AWS, MCP, distributed systems)
-- Applied domains (healthcare, customer service, DevOps)
+I supervise undergraduate projects in **Artificial Intelligence and AI Engineering**, with a strong focus on learning by building real systems.
 
-The goal is to move beyond prototypes and develop **evaluated, production-oriented AI systems**, incorporating metrics, experimentation and real-world constraints, including the development of infrastructure components (MCP servers) and GenUI-based interfaces for AI-driven system interaction.
+Projects typically combine LLMs and agents with traditional Machine Learning, software engineering, frontend/backend development, evaluation, security and real-world constraints.
 
----
+The objective is not only to build something that works, but to **experiment, measure, understand the trade-offs and deliver a complete open-source project**.
 
-### 🚀 Current Projects
+### 🚀 2026 Projects
 
-#### Implementing Decentralized Agentic Swarms and Generative UI for Autonomous Linux Infrastructure Management via OpenClaw
-Student: JGV
+#### Linux Incident Diagnosis Assistant with AI Agents
+
+Student: Jordi Grau Valls
 Study: Degree in Computer Engineering
 Year: 2026
 
+AI agent for diagnosing Linux system incidents using real system information and tools such as `journalctl`, `systemctl`, disk, memory and process inspection.
+
+The project places particular emphasis on **security and safe agentic execution**, including restricted permissions, evidence-based diagnoses, prompt injection testing and human validation.
+
 ---
 
-#### AI, Linux and Frontend: Operations Control Panel
-Student: ACS
+#### Generative UI and MCP for Infrastructure Management
+
+Student: Aleix Chillida Subirats
 Study: Degree in Computer Engineering
 Year: 2026
 
+Exploration and comparison of different **Generative UI architectures** for interacting with Linux infrastructure through the Model Context Protocol (MCP).
+
+The project compares approaches where the agent, the LLM or deterministic components decide how operational information should be visualized, using technologies such as AG-UI, CopilotKit and MCP-based UI components.
+
 ---
 
-#### Authorize context with different levels of confidentiality
+#### Context-Aware RAG with Different Confidentiality Levels
+
 Student: AFC
 Study: Degree in Computer Engineering
 Year: 2026
 
----
+RAG-based system designed to retrieve and generate answers while respecting **different levels of information confidentiality and user authorization**.
 
-#### AI-powered Fitness Web Application
-Student: VHJ
-Study: Degree in Computer Engineering
-Year: 2026
+The project explores how access control and contextual information can be incorporated into LLM-based retrieval systems.
 
 ---
 
-#### Medical assistant in medical imaging
-Student: ARF
+#### AI-Powered Personal Fitness Coach
+
+Student: Veronika HJ
 Study: Degree in Computer Engineering
 Year: 2026
 
-### 📦 Past Projects
-#### Agentic System for an Online Customer Center  
-Student: AEP  
-Study: Degree in Web and Mobile Application Development Techniques  
-Year: 2025  
+Full-stack AI fitness application combining **LLMs, traditional Machine Learning and recommender systems** to generate personalized training recommendations.
+
+The project includes frontend/backend development, UX/UI design, model evaluation, synthetic datasets and comparison between different recommendation approaches.
+
+---
+
+#### Conversational Movie Recommender with Social and Feedback Signals
+
+Student: Aina Rovira Figuerola
+Study: Degree in Computer Engineering
+Year: 2026
+
+Conversational movie recommendation system combining **LLMs, collaborative filtering, user feedback and social information**.
+
+The project explores how conversational context and user preferences can complement traditional recommender systems, using datasets such as MovieLens and TMDB and evaluating the different recommendation strategies.
+
+---
+
+#### Explainable AI Platform for Clinical Risk Assessment
+
+Student: Marc Roda
+Study: Degree in Computer Engineering
+Year: 2026
+
+AI Engineering platform for evaluating clinical risk models, developed from a healthcare hackathon use case.
+
+Rather than focusing only on predictive performance, the system provides infrastructure for **model evaluation, SHAP-based explainability, clinician feedback and local deployment**, combining traditional Machine Learning with LLM-generated explanations.
+
+The project was developed with feedback from healthcare AI professionals and with particular attention to the constraints of deploying AI in clinical environments.
+
+### 📦 Previous Projects
+
+#### Agentic System for an Online Customer Center
+
+Student: AEP
+Study: Degree in Web and Mobile Application Development Techniques
+Year: 2025
 
 Multi-agent system using LLMs and RAG for customer interaction and task execution.
 
 ---
 
-#### Artificial Intelligence for Document Management in the Insurance Sector  
-Student: NCR  
-Study: Degree in Computer Engineering  
-Year: 2025  
+#### Artificial Intelligence for Document Management in the Insurance Sector
+
+Student: NCR
+Study: Degree in Computer Engineering
+Year: 2025
 
 AI-based system for document classification and retrieval.
 
 ---
 
-#### Federated Learning in Medical Imaging (MONAI)  
-Student: GPG  
-Study: Degree in Computer Engineering  
-Year: 2025  
+#### Federated Learning in Medical Imaging (MONAI)
+
+Student: GPG
+Study: Degree in Computer Engineering
+Year: 2025
 
 Distributed machine learning applied to healthcare data.
 
 ---
 
-#### Football Score and Match Statistics Predictor  
-Student: JGB  
-Study: Degree in Computer Engineering  
-Year: 2025  
+#### Football Score and Match Statistics Predictor
+
+Student: JGB
+Study: Degree in Computer Engineering
+Year: 2025
 
 Machine learning system for prediction using statistical features.
 
 ---
 
-#### Creating a Chatbot using a Retrieval Augmented Generation Architecture  
-Student: Albert Garcia Bernat  
-Study: Degree in Computer Engineering  
-Year: 2024  
+#### Creating a Chatbot using a Retrieval Augmented Generation Architecture
+
+Student: Albert Garcia Bernat
+Study: Degree in Computer Engineering
+Year: 2024
 
 RAG-based conversational system.
 
 ---
 
-#### Automation of Deployment of AI Models with MONAI on AWS  
-Student: Tarek Ben Hamdouch  
-Study: Double Degree in Computer Engineering and Biotechnology  
-Year: 2024  
+#### Automation of Deployment of AI Models with MONAI on AWS
+
+Student: Tarek Ben Hamdouch
+Study: Double Degree in Computer Engineering and Biotechnology
+Year: 2024
 
 End-to-end ML deployment in cloud infrastructure.
 
 ---
 
-#### Call Service to Automate Reservations  
-Student: Guillem Rodríguez Mitjana  
-Study: Degree in Computer Engineering  
-Year: 2025  
+#### Call Service to Automate Reservations
+
+Student: Guillem Rodríguez Mitjana
+Study: Degree in Computer Engineering
+Year: 2025
 
 Conversational AI system for automating booking processes.
 
 ---
 
-#### Design and Development of a Fitness Application with AI  
-Student: Alejandro Trujillo Ortiz  
-Study: Degree in Computer Engineering  
-Year: 2024  
+#### Design and Development of a Fitness Application with AI
+
+Student: Alejandro Trujillo Ortiz
+Study: Degree in Computer Engineering
+Year: 2024
 
 AI-based recommendation system.
 
@@ -129,20 +173,24 @@ AI-based recommendation system.
 ## ⚙️ Infrastructure & AI Systems
 
 ### MCP Server for Infrastructure Management (Uyuni)
+
 https://github.com/mcp-server-uyuni
 
-Development of an MCP server enabling integration between infrastructure management systems (Uyuni/SUSE Manager) and AI-driven interfaces.
+Development of an MCP server enabling integration between infrastructure management systems (Uyuni/SUSE Manager) and AI-driven applications.
 
 Focus on:
-- exposing infrastructure operations as tools for LLMs and agents  
-- enabling natural language interaction with system administration tasks  
-- supporting multi-agent architectures and GenUI interfaces  
 
-This work serves as a foundation for several AI Engineering projects (LLM, RAG, multi-agent systems).
+* exposing infrastructure operations as tools for LLMs and agents
+* enabling natural-language interaction with system administration tasks
+* supporting agentic architectures
+* exploring Generative UI for AI-driven infrastructure management
+
+This work provides the technical foundation for several of the AI Engineering projects described above.
 
 ---
 
 ## 📚 Publications & Research
+
 ### Publications
 
 **Challenges in the AI-Driven Infrastructure Management Era**
@@ -154,9 +202,9 @@ Industrial experience report based on the development and deployment of MCP serv
 
 The paper discusses key governance challenges that emerge when LLMs interact with operational systems through machine-facing APIs, including:
 
-- API governance and rate limiting
-- Reviewable execution plans for AI agents
-- Scoped authorization and auditability
+* API governance and rate limiting
+* reviewable execution plans for AI agents
+* scoped authorization and auditability
 
 Paper:
 https://hdl.handle.net/11705/JCIS/2026/43
@@ -164,30 +212,33 @@ https://hdl.handle.net/11705/JCIS/2026/43
 ---
 
 ### Google Summer of Code
-**AI-Powered Intelligent Monitoring and Root Cause Analysis for Uyuni**
+
+#### AI-Powered Intelligent Monitoring and Root Cause Analysis for Uyuni
+
 https://summerofcode.withgoogle.com/programs/2026/projects/IkZoUdVT
 
-AI agent that correlates Prometheus metrics with live system diagnostics to detect anomalies, explain root causes, and provide actionable remediation recommendations for Linux infrastructure.
+AI agent that correlates Prometheus metrics with live system diagnostics to detect anomalies, explain root causes and provide actionable remediation recommendations for Linux infrastructure.
 
 ---
 
-**AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests**  
-https://summerofcode.withgoogle.com/programs/2025/projects/2mlAbkgB  
+#### AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests
 
-Machine learning applied to optimize testing workflows in a real-world DevOps environment.
+https://summerofcode.withgoogle.com/programs/2025/projects/2mlAbkgB
+
+Machine Learning applied to optimize testing workflows in a real-world DevOps environment.
 
 ---
 
 ### SUSE Hackweek Projects
 
-**Package MONAI Machine Learning Models for Medical Applications**  
-https://hackweek.opensuse.org/24/projects/package-monai-machine-learning-models-for-medical-applications  
+**Package MONAI Machine Learning Models for Medical Applications**
+https://hackweek.opensuse.org/24/projects/package-monai-machine-learning-models-for-medical-applications
 
-**Hack on MONAI (Medical Open Network for Artificial Intelligence)**  
-https://hackweek.opensuse.org/24/projects/hack-on-project-monai-medical-open-network-for-artificial-intelligence  
+**Hack on MONAI (Medical Open Network for Artificial Intelligence)**
+https://hackweek.opensuse.org/24/projects/hack-on-project-monai-medical-open-network-for-artificial-intelligence
 
-**Chest X-Ray Medical Diagnosis with Deep Learning and Javascript**  
-https://hackweek.opensuse.org/24/projects/chest-x-ray-medical-diagnosis-with-deep-learning-and-javascript  
+**Chest X-Ray Medical Diagnosis with Deep Learning and Javascript**
+https://hackweek.opensuse.org/24/projects/chest-x-ray-medical-diagnosis-with-deep-learning-and-javascript
 
 Applied experimentation with medical AI, deployment and integration.
 
@@ -195,16 +246,18 @@ Applied experimentation with medical AI, deployment and integration.
 
 ## Academic Activities
 
-• Bachelor's Thesis Supervisor (AI Engineering)
-• Member of Bachelor's Thesis Evaluation Committees
-• Laboratory Instructor – Network and Systems Management
+* Bachelor's Thesis Supervisor – AI Engineering
+* Member of Bachelor's Thesis Evaluation Committees
+* Laboratory Instructor – Network and Systems Management
 
-## Research Interests
+## Research & Engineering Interests
 
-- AI Engineering
-- Agentic Systems
-- Model Context Protocol (MCP)
-- Infrastructure Automation
-- Human-in-the-Loop AI
-- Medical AI
-- Explainable AI Operations
+* AI Engineering
+* Agentic Systems
+* Model Context Protocol (MCP)
+* Generative UI
+* Infrastructure Automation
+* Human-in-the-Loop AI
+* AI Evaluation
+* Medical AI
+* Explainable AI
